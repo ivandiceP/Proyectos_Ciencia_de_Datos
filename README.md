@@ -1,6 +1,6 @@
 # Proyectos de Ciencia de Datos y Procesos ETL - Iván Mendoza Ramos
 
-Este repositorio contiene dos proyectos de ciencia de datos y dos proyectos de ingeniería de datosrealizados en Python, que incluyen preparación de datos, análisis exploratorio, visualización y modelado predictivo. Todos los proyectos están diseñados para demostrar habilidades en análisis de datos, machine learning y visualización.
+Este repositorio contiene dos proyectos de ciencia de datos y dos proyectos de ingeniería de datosrealizados en Python, que incluyen preparación de datos, análisis exploratorio, visualización y modelado predictivo. Todos los proyectos están diseñados para demostrar habilidades en análisis de datos, machine learning y visualización. Cada proyecto tiene su propia rama
 
 ---
 # Proyecto1_ETL_API_FAKESTORE: Integración de datos desde FakeStoreAPI hacia PostgreSQL
